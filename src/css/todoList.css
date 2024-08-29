@@ -1,0 +1,11 @@
+.todoList-container{
+    width: 100%;
+    margin-top: 30px;
+}
+.todoLsit-header-container{
+font-size: 20px;
+}
+
+.todoLsit-header{
+color: lightcoral;
+}

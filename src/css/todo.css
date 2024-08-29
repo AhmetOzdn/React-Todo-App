@@ -1,0 +1,26 @@
+.todo-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid lightcoral;
+    margin-top: 5px;
+    transition: all .3s ease-in-out;
+}
+
+.todo-container:hover{
+    border: 1px solid lightsalmon;
+    cursor: pointer;
+}
+
+.todo-icon{
+    margin-right: 5px;
+    color: lightcoral;
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+}
+
+.todo-icon:hover{
+    color: lightsalmon;
+}
